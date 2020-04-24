@@ -1,0 +1,39 @@
+{
+    "header": {
+        "menu": "Menu",
+        "share_your_work": "Deel je werk",
+        "use_remix": "Gebruik &#038; remix",
+        "what_we_do": "Wat wij doen",
+        "blog": "Blog",
+        "global_affiliate_network": "Globaal Affiliate Netwerk",
+        "search_the_commons": "Zoek door de Commons",
+        "contact": "Contact",
+        "facebook": "Facebook",
+        "twitter": "Twitter",
+        "mail": "Mail"
+    },
+    "donate": {
+        "text": "Help ons een levendige, samenwerkende globale commons te bouwen ",
+        "donate": "Doneer",
+        "now": "Nu"
+    },
+    "language_selector": {
+        "text": "Deze pagina is beschikbaar in de volgende talen:"
+    },
+    "language_footer": {
+        "text": "Additionele talen beschikbaar: ",
+        "more_information": "Lees de <a href=\"/FAQ#officialtranslations\">FAQ</a> voor meer informatie over officiële vertalingen."
+    },
+    "legalcode": {
+        "back": "« Terug naar de Commons Deed",
+        "other_languages": "Officiële vertalingen van deze licenties zijn ook beschikbaar <a href=\"#languages\">in andere talen</a>."
+    },
+    "license": {
+        "attribution": "Naamsvermelding",
+        "international": "Internationaal"
+    },
+    "screen_reader": {
+        "expand": "open menu",
+        "collapse": "sluit menu"
+    }
+}

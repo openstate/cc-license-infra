@@ -1,0 +1,39 @@
+{
+    "header": {
+        "menu": "Menu",
+        "share_your_work": "Share your work",
+        "use_remix": "Use &amp; remix",
+        "what_we_do": "What we do",
+        "blog": "Blog",
+        "global_affiliate_network": "Global Affiliate Network",
+        "search_the_commons": "Search the Commons",
+        "contact": "Contact",
+        "facebook": "Facebook",
+        "twitter": "Twitter",
+        "mail": "Mail"
+    },
+    "donate": {
+        "text": "Help us build a vibrant, collaborative global commons",
+        "donate": "Donate",
+        "now": "Now"
+    },
+    "language_selector": {
+        "text": "This page is available in the following languages:"
+    },
+    "language_footer": {
+        "text": "Additional languages available: ",
+        "more_information": " Please read the <a href=\"/FAQ#officialtranslations\">FAQ</a> for more information about official translations.                 "
+    },
+    "legalcode": {
+        "back": "« Back to Commons Deed",
+        "other_languages": "Official translations of this license are available <a href=\"#languages\">in other languages</a>."
+    },
+    "license": {
+        "attribution": "Attribution",
+        "international": "International"
+    },
+    "screen_reader": {
+        "expand": "expand child menu",
+        "collapse": "collapse child menu"
+    }
+}
