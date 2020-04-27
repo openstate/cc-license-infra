@@ -23,7 +23,7 @@ Some finds:
     + `<noscript id='sapper-head-...'></noscript>` for dynamic `<svelte:head>` (not a problem but needs to be stripped for compare)
 - Svelte issues:
     + `preserveComments` compiler setting doesn't seem to work (opened issue [#4730](https://github.com/sveltejs/svelte/issues/4730))
-    + `preserveWhitespace` compiler setting doesn't work for all whitespace (prefix spaces and newlines) (opened issue [#4731](https://github.com/sveltejs/svelte/issues/4730)), to prevent newline collapse we added `<!---->` as a temporary fix (since comments are stripped).
+    + `preserveWhitespace` compiler setting doesn't work for all whitespace (prefix spaces and newlines) (opened issue [#4731](https://github.com/sveltejs/svelte/issues/4731)), to prevent newline collapse we added `<!---->` as a temporary fix (since comments are stripped).
 
 ## Run
 
