@@ -22,8 +22,8 @@ Some finds:
 - Svelte extra tags:
     + `<noscript id='sapper-head-...'></noscript>` for dynamic head
 - Svelte issues:
-    + `preserveComments` compiler setting doesn't seem to work
-    + `preserveWhitespace` compiler setting doesn't work for all whitespace (prefix spaces and newlines)
+    + `preserveComments` compiler setting doesn't seem to work (opened issue [#4730](https://github.com/sveltejs/svelte/issues/4730))
+    + `preserveWhitespace` compiler setting doesn't work for all whitespace (prefix spaces and newlines) (opened issue [#4731](https://github.com/sveltejs/svelte/issues/4730))
 
 ## Run
 
