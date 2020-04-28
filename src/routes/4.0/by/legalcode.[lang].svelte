@@ -1,10 +1,8 @@
 <script context="module">
-  import { init } from 'svelte-i18n';
+  import { locale, waitLocale } from 'svelte-i18n';
   export async function preload({ params, query }) {
-    init({
-      fallbackLocale: 'en',
-      initialLocale: params.lang,
-    });
+    locale.set(params.lang);
+    return waitLocale(params.lang);
   }
 </script>
 <script>
