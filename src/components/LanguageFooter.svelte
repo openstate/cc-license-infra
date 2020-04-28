@@ -9,7 +9,7 @@
 <!-- Language Footer Start - DO NOT DELETE -->
 {#each languages as {lang, text, url}, i}
 <a href="/licenses/by/4.0/{url||`legalcode.${lang}`}">{text}</a>{i === languages.length - 1 ? '.' : ','}
-<!---->
+
 {/each}
 <!-- Language Footer End - DO NOT DELETE -->
 {@html $_('language_footer.more_information')}</p>
