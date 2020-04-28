@@ -1,6 +1,6 @@
 # Proof of Concept
 
-Recreating the Creative Commons [legalcode](https://github.com/creativecommons/creativecommons.org/master/docroot/legalcode/by_4.0.html) html with Svelte/Sapper and svelte-i18n.
+Recreating the Creative Commons [legalcode](https://github.com/creativecommons/creativecommons.org/blob/master/docroot/legalcode/by_4.0.html) html with Svelte/Sapper and svelte-i18n.
 
 Goal is:
 - very similar html
